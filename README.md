@@ -44,6 +44,4 @@ Final Project submitted for Geospatial Analysis Course.
 
 Overall, the regression models do prove to be a viable predictor model for "CrashesPerPolygon" in these datasets, with increasing accuracy as the resolution of the polygon grids is increased, based off the results of R-squred.  However, a much more in depth analysis would be required for better fitting.
 
-Due to time constraints this is where my analysis ends.  I may return to this project and add more to my analysis for dataset3 at a later date.
-
 - [Code here](https://github.com/JasonSpaw/Geospatial-Analysis-Final-Project/blob/main/Project-GeospatialWorkflow!.ipynb)
